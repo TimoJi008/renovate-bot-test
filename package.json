@@ -8,6 +8,9 @@
     "commander": "2.20.3",
     "lodash": "4.17.21",
     "@date-io/date-fns": "3.0.0",
-    "@date-io/moment": "3.0.0"
+    "@date-io/moment": "3.0.0",
+    "async": "^0.2.10", 
+   "npm2es": "~0.4.2", 
+   "optimist": "~0.6.0"
   }
 }
